@@ -53,3 +53,10 @@ p{
     text-align: center;
     padding: 5%;
 }
+.icons{
+    color: #ff4c68;
+    padding-bottom: 1rem;
+}
+.icons:hover{
+    color: #af4051;
+}
