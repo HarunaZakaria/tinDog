@@ -22,6 +22,7 @@ p{
     padding: 0 0 4.5rem;
 }
 .navbar-brand{
+    font-family: ubuntu;
     font-size: 2.5rem;
     font-weight: bold;
 }
