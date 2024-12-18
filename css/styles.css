@@ -4,7 +4,8 @@
 
 }
 h1{
-    font-size: 3rem;
+    font-family: "Ubuntu", serif;
+    font-size: 4rem;
     line-height: 1.5;
     font-weight: bold;
 }
@@ -22,7 +23,7 @@ p{
     padding: 0 0 4.5rem;
 }
 .navbar-brand{
-    font-family: ubuntu;
+    font-family: "Ubuntu", serif;
     font-size: 2.5rem;
     font-weight: bold;
 }
