@@ -4,10 +4,14 @@
 
 }
 h1{
-    font-family: "Ubuntu", serif;
-    font-size: 4rem;
+    font-family: "montserrat-black";
+    font-size: 3rem;
     line-height: 1.5;
     font-weight: bold;
+}
+h2{
+    font-weight: bold;
+    font-size: 32px;
 }
 h3{
     font-weight: bold;
@@ -59,4 +63,16 @@ p{
 }
 .icons:hover{
     color: #af4051;
+}
+/* Testimonials Section */
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+.testi-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
 }
