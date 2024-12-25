@@ -66,9 +66,12 @@ p{
 }
 /* Testimonials Section */
 #testimonials{
-    padding: 7% 15%;
     text-align: center;
     color: #fff;
+    background-color: #ff4c68;
+}
+.carousel-item {
+    padding: 7% 15%;
 }
 .testi-image{
     width: 10%;
