@@ -47,6 +47,7 @@ p{
 .tittle-image{
     width: 60%;
     transform: rotate(25deg);
+    
 }
 
 /* Features Section */
@@ -55,7 +56,7 @@ p{
 }
 .feature-box{
     text-align: center;
-    padding: 5%;
+    padding: 4.5%;
 }
 .icons{
     color: #ff4c68;
@@ -100,4 +101,14 @@ p{
 }
 .pricing-column {
     padding: 3% 2%;
+}
+@media(max-width: 991px) {
+
+    #title{
+        text-align: center;
+    }
+    .tittle-image{
+    position: static;
+    transform: rotate(0);        
+    }
 }
