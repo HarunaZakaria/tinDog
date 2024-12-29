@@ -110,7 +110,16 @@ p{
     padding: 7% 15%;
     text-align: center;
 }
-
+.cta-heading{
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+/* Footer Section */
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
 @media(max-width: 991px) {
 
     #title{
